@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="peachcountryfarmmarket.com" id="13a3fdc5-bb31-4ce4-a109-334500b76f9d" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="peachcountryfarmmarket" />
+    </configs>
+  </component>
+</project>
